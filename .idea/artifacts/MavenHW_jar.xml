@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="MavenHW:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MavenHW_jar</output-path>
-    <root id="archive" name="MavenHW.jar">
-      <element id="module-output" name="MavenHW" />
-      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/META-INF" />
-    </root>
-  </artifact>
-</component>
